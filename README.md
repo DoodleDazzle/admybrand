@@ -9,6 +9,9 @@ Built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and a fully reusabl
 ## 🌐 Live Demo  
 View on Vercel: https://aisuite-three.vercel.app/
 
+## 📽️ Video Demo
+View in Drive: https://drive.google.com/file/d/1Gt-reY1IZJ4BSzJN_NIO2XkZ7RaSHbAm/view?usp=sharing
+
 ---
 
 ## ✨ Features  
