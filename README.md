@@ -7,7 +7,7 @@ Built with **Next.js 14**, **TypeScript**, **Tailwind CSS**, and a fully reusabl
 ---
 
 ## 🌐 Live Demo  
-View on Vercel: https://admybrand-lilac.vercel.app/
+View on Vercel: https://aisuite-three.vercel.app/
 
 ---
 
